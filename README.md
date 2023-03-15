@@ -4,12 +4,10 @@ This is a simple Bash script that generates a random strong password using opens
 
 ## Getting Started
 
-### Prerequisites
-
 To run this script, you need:
 
 - Bash shell
-- openssl
+- Openssl
 
 ### Installing
 
@@ -22,14 +20,6 @@ To generate a random password, simply run the `generate_password.sh` script:
 
 
 This will output a random password that's 16 characters long. You can customize the length of the password by modifying the `length` variable in the script.
-
-## Authors
-
-- [DEBASHISH](https://github.com/d43ash1sh)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
